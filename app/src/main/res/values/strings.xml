@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">webV</string>
+    <string name="google">google</string>
+    <string name="img">img</string>
+    <string name="facebook">Facebook</string>
+    <string name="pinterest">pinterest</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">linkedin</string>
+    <string name="telegram">Telegram</string>
+    <string name="spotify">Spotify</string>
+    <string name="youtube">Youtube</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="twitch">Twitch</string>
+    <string name="twitter">Twitter</string>
+    <string name="discord">Discord</string>
+    <string name="google1">Google</string>
+    <string name="social_media">Social Media</string>
+    <string name="start">Start</string>
+    <string name="back">back</string>
+
+</resources>
